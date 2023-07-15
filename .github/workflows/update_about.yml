@@ -1,0 +1,43 @@
+# Automate updating about.md when the content of README.md
+# in the repo markgreene74/markgreene74 changes
+
+name: update_about
+
+on:
+  push:
+    branches: [ main ]
+
+  # run the workflow every Sunday at 03:10
+  # 1h after the workflow to update markgreene74/markgreene74/README.md
+  workflow_dispatch:
+  schedule:
+    - cron: '10 3 * * 0'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      work-dir: ./_update_about
+      readme_raw_url: "https://raw.githubusercontent.com/markgreene74/markgreene74/main/README.md"
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update about.md
+        working-directory: ${{ env.work-dir }}
+        run: |-
+          wget ${{ env.readme_raw_url }}
+          if ! diff README.md README.md.old -q
+          then
+            cat about.md_template README.md | tee ../about.md
+            cp README.md README.md.old
+          fi
+
+          rm README.md
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "actions-bot"
+          git add -A
+          git commit -m "Updated about.md" || exit 0
+          git push
