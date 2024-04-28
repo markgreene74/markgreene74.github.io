@@ -9,8 +9,8 @@ permalink: /about
 ### Hi there 👋
 
 - 😄 Pronouns: he/him.
-- 🔭 I am a Python developer (backend) at Sky.
-- 💻 I am on GitHub also as [giuseppecunsolo-sky](https://github.com/giuseppecunsolo-sky).
+- 🔭 I am a Software engineer at FairXchange.
+- 💻 I am on GitHub also as [giuseppecunsolo-sky](https://github.com/giuseppecunsolo-sky), but not very active on the other profile since I left Sky.
 - 🌱 In my spare time I like to work on personal projects (with Python, Jupyterlab, Pandas) around Data Science and ML.
 - 📚 I have a PostGraduate Certificate (PGCert) in Data Science from Goldsmiths, University of London.
 - 📖 I am studying for a master's degree (MSc) in Big Data Analytics at the University of Liverpool.
@@ -18,7 +18,7 @@ permalink: /about
   - [LinkedIn](https://uk.linkedin.com/in/giuseppecunsolo)
   - ~[Twitter](https://twitter.com/markgreene74)~
   - [Mastodon](https://fosstodon.org/@markgreene)
-  - `markgreene` or `gc` on a number of Slack workspaces ([PyBites](https://pybites.slack.com), [Test Podcast](https://testpodcast.slack.com), [Gophers](https://gophers.slack.com), [PyData Global](https://pydataglobal.slack.com), [PyData London](https://pydatalondon.slack.com))
+  - `markgreene` or `gc` on a number of Slack workspaces ([PyData Global](https://pydataglobal.slack.com), [PyData London](https://pydatalondon.slack.com), [Gophers](https://gophers.slack.com))
 
 
 ### 📢 `[conference for conference in all_conferences]`
@@ -27,6 +27,10 @@ permalink: /about
 <details><summary>(...)</summary>
 <p>
 <ul>
+
+  
+<li><a href="https://pydata.org/london2024/">PyData London 2024</a> 14-16 June, 2024</li>
+  
 
 </ul>
 </p>
@@ -113,4 +117,4 @@ permalink: /about
 </p>
 </details>
 
-Last updated: 2024-04-21 02:29
+Last updated: 2024-04-28 02:31
