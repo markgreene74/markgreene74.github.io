@@ -29,6 +29,10 @@ permalink: /about
 <ul>
 
   
+<li><a href="https://ep2024.europython.eu/">EuroPython 2024</a> 08-14 July, 2024 (Online)</li>
+  
+
+  
 <li><a href="https://pydata.org/london2024/">PyData London 2024</a> 14-16 June, 2024</li>
   
 
@@ -117,4 +121,4 @@ permalink: /about
 </p>
 </details>
 
-Last updated: 2024-06-23 02:37
+Last updated: 2024-06-30 02:39
