@@ -32,6 +32,10 @@ permalink: /about
   
 
   
+<li><a href="https://pydata.org/global2024">PyData Global 2024</a> 03-05 December, 2024 (Online)</li>
+  
+
+  
 <li><a href="https://ep2024.europython.eu/">EuroPython 2024</a> 08-14 July, 2024 (Online)</li>
   
 
@@ -124,4 +128,4 @@ permalink: /about
 </p>
 </details>
 
-Last updated: 2024-11-24 03:05
+Last updated: 2024-12-01 03:17
