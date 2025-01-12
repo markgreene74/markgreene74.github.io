@@ -28,6 +28,10 @@ permalink: /about
 <ul>
 
   
+<li><a href="https://pydata.org/london2025/">PyData London 2025</a> 06-08 June, 2025</li>
+  
+
+  
 <li><a href="https://www.rustnationuk.com/">Rust Nation 2025</a> 19-20 February, 2025</li>
   
 
@@ -128,4 +132,4 @@ permalink: /about
 </p>
 </details>
 
-Last updated: 2025-01-05 02:58
+Last updated: 2025-01-12 03:01
