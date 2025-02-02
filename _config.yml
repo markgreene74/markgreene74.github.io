@@ -2,3 +2,5 @@ theme: minima
 title: markgreene74's pages
 subtitle: random ramblings
 description: random ramblings, mostly about Python
+minima:
+  skin: dark
