@@ -1,3 +1,1 @@
-# markgreene74.github.io
-
-[About](https://markgreene74.github.io/about) - [Projects](https://markgreene74.github.io/projects)
+Random ramblings, mostly about Python but also GNU/Linux, Rust. This is the place where I save things I want to document for my future self.
