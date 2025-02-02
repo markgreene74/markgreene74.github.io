@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "post 0"
+title:  "SSH agent forwarding"
 categories: ssh remote-dev
 author: markgreene74
 ---
