@@ -29,6 +29,10 @@ permalink: /about
 <ul>
 
   
+<li><a href="https://ep2025.europython.eu">EuroPython 2025</a> 14-20 July, 2025 (Online)</li>
+  
+
+  
 <li><a href="https://pydata.org/london2025/">PyData London 2025</a> 06-08 June, 2025</li>
   
 
@@ -133,4 +137,4 @@ permalink: /about
 </p>
 </details>
 
-Last updated: 2025-06-22 03:36
+Last updated: 2025-06-29 03:39
