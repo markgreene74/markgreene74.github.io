@@ -29,6 +29,10 @@ permalink: /about
 <ul>
 
   
+<li><a href="https://pydata.org/global2025">PyData Global 2025</a> 09-11 December, 2025 (Online)</li>
+  
+
+  
 <li><a href="https://ep2025.europython.eu">EuroPython 2025</a> 14-20 July, 2025 (Online)</li>
   
 
@@ -137,4 +141,4 @@ permalink: /about
 </p>
 </details>
 
-Last updated: 2025-12-07 03:40
+Last updated: 2025-12-14 03:42
