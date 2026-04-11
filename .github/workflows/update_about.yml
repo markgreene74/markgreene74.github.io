@@ -21,7 +21,7 @@ jobs:
       readme_raw_url: "https://raw.githubusercontent.com/markgreene74/markgreene74/main/README.md"
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - name: Update about.md
         working-directory: ${{ env.work-dir }}
         run: |-
