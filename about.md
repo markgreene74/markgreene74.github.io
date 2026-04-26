@@ -27,6 +27,10 @@ permalink: /about
 <p>
 <ul>
 
+  
+<li><a href="https://pydata.org/london2026/">PyData London 2026</a> 05-07 June, 2026</li>
+  
+
 </ul>
 </p>
 </details>
@@ -140,4 +144,4 @@ permalink: /about
 </p>
 </details>
 
-Last updated: 2026-04-19 05:09
+Last updated: 2026-04-26 05:18
